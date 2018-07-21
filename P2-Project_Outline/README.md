@@ -26,4 +26,4 @@ React/Javascript
 
 ### What I'll Have to Learn
 I have no idea how to structure this in a DB.
-React: I'll have to learn how to use this in conjunction with Spring.
+React: I'll have to learn how to use this in conjunction with Spring. I found a tutorial.
