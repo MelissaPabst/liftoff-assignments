@@ -9,7 +9,7 @@ For this assignment, you'll create some initial plans for your project.
 ### Wireframes
 * [Full Ramenu Project on Moqups](https://app.moqups.com/melissapabst@gmail.com/YhEknFwAyL/edit/page/aa9df7b72)
 
-## 3 Wireframes for Assignment
+#### 3 Wireframes for Assignment
 * [Landing Page](https://app.moqups.com/melissapabst@gmail.com/YhEknFwAyL/edit/page/aa9df7b72)
 
 * [Sign Up Page](https://app.moqups.com/melissapabst@gmail.com/YhEknFwAyL/edit/page/a33a31a79)
