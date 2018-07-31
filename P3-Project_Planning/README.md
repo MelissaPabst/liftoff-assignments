@@ -12,7 +12,7 @@ For this assignment, you'll create some initial plans for your project.
 #### 3 Wireframes for Assignment
 ![Landing Page](/P3-Project_Planning/LandingPage.png)
 
-![Sign Up Page](/P3-Project_Planning/Signup.png)
+![Sign Up Page](/P3-Project_Planning/SignUp.png)
 
 ![Edit Account Page](/P3-Project_Planning/EditAccount.png)
 
