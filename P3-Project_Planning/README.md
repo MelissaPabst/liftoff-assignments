@@ -12,9 +12,9 @@ For this assignment, you'll create some initial plans for your project.
 #### 3 Wireframes for Assignment
 ![Landing Page](/P3-Project_Planning/LandingPage.png)
 
-![Sign Up Page](https://raw.githubusercontent.com/melissapabstliftoff-assignments/P3-Project_Planning/Signup.png)
+![Sign Up Page](/P3-Project_Planning/Signup.png)
 
-![Edit Account Page](https://raw.githubusercontent.com/melissapabst/liftoff-assignments/P3-Project_Planning/EditAccount.png)
+![Edit Account Page](P3-Project_Planning/EditAccount.png)
 
 ### Project Tracker
 [Ramenu Project Tracker](https://trello.com/b/UYEZIezu/ramenu)
