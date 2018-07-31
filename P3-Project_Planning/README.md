@@ -7,14 +7,14 @@ For this assignment, you'll create some initial plans for your project.
 ## Submission Instructions
 
 ### Wireframes
-* [Full Ramenu Project on Moqups](https://app.moqups.com/melissapabst@gmail.com/YhEknFwAyL/edit/page/aa9df7b72)
+* [Full Ramenu Project on Moqups, Public Access](https://app.moqups.com/melissapabst@gmail.com/YhEknFwAyL/edit/page/aa9df7b72)
 
 #### 3 Wireframes for Assignment
-* [Landing Page](https://app.moqups.com/melissapabst@gmail.com/YhEknFwAyL/edit/page/aa9df7b72)
+![Landing Page](https://raw.githubusercontent.com/melissapabst/liftoff-assignments/P3-Project_Planning/Screen Shot 2018-07-30 at 9.17.31 PM.png)
 
-* [Sign Up Page](https://app.moqups.com/melissapabst@gmail.com/YhEknFwAyL/edit/page/a33a31a79)
+![Sign Up Page](https://raw.githubusercontent.com/melissapabstliftoff-assignments/P3-Project_Planning/Screen Shot 2018-07-30 at 9.17.44 PM.png)
 
-* [Edit Account Page](https://app.moqups.com/melissapabst@gmail.com/YhEknFwAyL/edit/page/aefa18690)
+![Edit Account Page](https://raw.githubusercontent.com/melissapabst/liftoff-assignments/P3-Project_Planning/Screen Shot 2018-07-30 at 9.17.54 PM.png)
 
 ### Project Tracker
 [Ramenu Project Tracker](https://trello.com/b/UYEZIezu/ramenu)
