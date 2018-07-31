@@ -10,7 +10,7 @@ For this assignment, you'll create some initial plans for your project.
 * [Full Ramenu Project on Moqups, Public Access](https://app.moqups.com/melissapabst@gmail.com/YhEknFwAyL/edit/page/aa9df7b72)
 
 #### 3 Wireframes for Assignment
-![Landing Page](liftoff-assignments/P3-Project_Planning/Screen Shot 2018-07-30 at 9.17.31 PM.png)
+![Landing Page](https://raw.githubusercontent.com/melissapabst/liftoff-assignments/P3-Project_Planning/Screen Shot 2018-07-30 at 9.17.31 PM.png)
 
 ![Sign Up Page](https://raw.githubusercontent.com/melissapabstliftoff-assignments/P3-Project_Planning/Screen Shot 2018-07-30 at 9.17.44 PM.png)
 
