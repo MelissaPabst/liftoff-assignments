@@ -14,7 +14,7 @@ For this assignment, you'll create some initial plans for your project.
 
 ![Sign Up Page](/P3-Project_Planning/Signup.png)
 
-![Edit Account Page](P3-Project_Planning/EditAccount.png)
+![Edit Account Page](/P3-Project_Planning/EditAccount.png)
 
 ### Project Tracker
 [Ramenu Project Tracker](https://trello.com/b/UYEZIezu/ramenu)
